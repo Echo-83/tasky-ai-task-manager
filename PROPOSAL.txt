@@ -1,0 +1,55 @@
+Project Title: Tasky your personal AI-powered Task manager, web based
+
+This project helps users manage daily tasks with AI-powered suggestions based on deadlines, priorities, and importance. My motivation is to gain real-world experience in software system design, full-stack development, and basic AI integration. The project will also cover authentication, testing, deployment, and documentation.
+
+Main Features:
+1- user registration, login and user data saving
+2- task manipulation from adding, editing, deleting and viewing
+3- tasks have specific attributes including: deadline, priority
+4- AI powered suggestion system (suggest for users which is the most urgent task to be done)
+5- responsive frontend (multidevice view)
+6- RESTful API for all operation
+7- secure user data handling, alongside encrypting user login info
+8- unit testing, design testing and debugging
+9- utilize free cloud platforms for budget friendliness
+10- well written documentation
+11- version control for the project and pushing it to GitHub
+
+Target Users: users who struggle with handling tasks and struggle to stick to deadlines
+
+Tech Stack:
+- frontend: we will use REACT (javaScript)
+- backend : Node.js + express.js
+- database: mongoDB
+- AI/ML : python flask microservice
+- authentication: JWT
+- version control: GIT and GitHub
+- deployment : Vercel (frontend), Render/Railway (backend)
+
+Learning Goals: hand on experience for a start up career in software engineering, the following sub-goals included:
+- learn full stack web development
+- learn how to system control and system design
+- learn how to use APIs in the system to connect front-end, back-end, and DB
+- integrate simple AI/ML feature
+- implement authentication and security best practices
+- write, run, test, debug and utilize the code to meet a clean code standard
+- deploy and document the project
+- using version control and getting more flexibly with GIT commands
+
+Project Scope:
+in the MVP I expect to have a fully functional responsive website, with full task manipulation control, front-end and back-end connection, database security and user login and sign in, additionally I do want a simple AI model to suggest which tasks to handle best.
+
+features that are nice to have are encryption for the user login and password, giving higher privilege for the AI model to manipulate the tasks based on users command. additionally return any undone user tasks for the next day if the deadline is not met yet.
+
+Timeline:
+the timeline for the whole project is 4-7 days, while I do expect the frontend to take between one day to day and half, DB to take half a day, back-end and AI to take two days, linking the parts successfully is expected to take a day or half a day.
+
+Budget & Resources:
+we will utilize any free resources available including the flask free microservice, free cloud systems and deployment systems.
+
+Success Criteria:
+1- having a fully working task management system
+2- deploying the AI with the task in mind
+3- both front-end and back-end fully working correctly, with the minimum number of errors and bugs
+4- being able to use the system for personal use in the future
+5- meeting the MVP and going beyond
